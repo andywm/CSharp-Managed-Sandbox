@@ -1,0 +1,12 @@
+Z:\__4thYear\Trustworthy\ACW1\TrustworthyACW1\TrustworthyACW1\bin\Debug\TrustworthyACW1.exe.config
+Z:\__4thYear\Trustworthy\ACW1\TrustworthyACW1\TrustworthyACW1\bin\Debug\TrustworthyACW1.exe
+Z:\__4thYear\Trustworthy\ACW1\TrustworthyACW1\TrustworthyACW1\bin\Debug\TrustworthyACW1.pdb
+Z:\__4thYear\Trustworthy\ACW1\TrustworthyACW1\TrustworthyACW1\obj\Debug\TrustworthyACW1.csprojResolveAssemblyReference.cache
+Z:\__4thYear\Trustworthy\ACW1\TrustworthyACW1\TrustworthyACW1\obj\Debug\TrustworthyACW1.exe
+Z:\__4thYear\Trustworthy\ACW1\TrustworthyACW1\TrustworthyACW1\obj\Debug\TrustworthyACW1.pdb
+C:\Users\Andrew\Documents\UniWork\acw1_trustworthy\TrustworthyACW1\TrustworthyACW1\bin\Debug\TrustworthyACW1.exe.config
+C:\Users\Andrew\Documents\UniWork\acw1_trustworthy\TrustworthyACW1\TrustworthyACW1\obj\Debug\TrustworthyACW1.exe
+C:\Users\Andrew\Documents\UniWork\acw1_trustworthy\TrustworthyACW1\TrustworthyACW1\obj\Debug\TrustworthyACW1.pdb
+C:\Users\Andrew\Documents\UniWork\acw1_trustworthy\TrustworthyACW1\TrustworthyACW1\bin\Debug\TrustworthyACW1.exe
+C:\Users\Andrew\Documents\UniWork\acw1_trustworthy\TrustworthyACW1\TrustworthyACW1\bin\Debug\TrustworthyACW1.pdb
+C:\Users\Andrew\Documents\UniWork\acw1_trustworthy\TrustworthyACW1\TrustworthyACW1\obj\Debug\TrustworthyACW1.csprojResolveAssemblyReference.cache

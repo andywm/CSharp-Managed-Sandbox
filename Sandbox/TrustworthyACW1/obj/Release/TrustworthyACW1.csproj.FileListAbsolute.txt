@@ -1,0 +1,5 @@
+C:\Users\Andrew\Documents\UniWork\acw1_trustworthy\TrustworthyACW1\TrustworthyACW1\bin\Release\TrustworthyACW1.exe.config
+C:\Users\Andrew\Documents\UniWork\acw1_trustworthy\TrustworthyACW1\TrustworthyACW1\bin\Release\TrustworthyACW1.exe
+C:\Users\Andrew\Documents\UniWork\acw1_trustworthy\TrustworthyACW1\TrustworthyACW1\bin\Release\TrustworthyACW1.pdb
+C:\Users\Andrew\Documents\UniWork\acw1_trustworthy\TrustworthyACW1\TrustworthyACW1\obj\Release\TrustworthyACW1.exe
+C:\Users\Andrew\Documents\UniWork\acw1_trustworthy\TrustworthyACW1\TrustworthyACW1\obj\Release\TrustworthyACW1.pdb
